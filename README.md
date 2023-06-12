@@ -1,6 +1,15 @@
 # Reading Notes
 
+
 This website serves as a repository for my reading notes from various courses on software development.
+| Course                | Read Notes URL                               |
+|-----------------------|----------------------------------------------|
+| Code 102              | [Link to Read Notes](https://example.com/102) |
+| Code 201              | [Link to Read Notes](https://example.com/201) |
+| Code 301              | [Link to Read Notes](https://example.com/301) |
+| Code 401              | [Link to Read Notes](https://example.com/401) |
+
+
 
 ## Code 102 - Intro to Software Development
 
@@ -18,11 +27,4 @@ Here, you'll find my insights and notes from the Code 301 course, which delves d
 
 In this section, I capture my reading notes and valuable knowledge gained throughout the Code 401 course, which covers advanced software development topics and techniques.
 
----
 
-##### Markdown Features Utilized:
-- Level-1 and Level-2 headings
-- Paragraphs and descriptions
-- Unordered lists
-- Horizontal rule
-- Italic emphasis (e.g., *italic*)
