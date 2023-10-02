@@ -2,9 +2,6 @@
 
 **Speaker :  Rover Engineering Team**
 
- 
-
-
 Finished watching Breaking Down the Tech Interview  Rover Engineering Team.
 
 

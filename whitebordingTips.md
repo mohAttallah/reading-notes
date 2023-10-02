@@ -2,9 +2,6 @@
 
 **Speaker : Roger Huba**
 
- 
-
-
 Finished watching Whiteboarding Tips & Strategies, for Roger Huba.
 
 The information in the video changed my way to approach a whiteboarding interview by:
